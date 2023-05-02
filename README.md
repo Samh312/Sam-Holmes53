@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning: C & Html & Javascript
 - 🤔 I’m looking for help with: C & Advanced Python
 - 💬 Ask me about: Any web developemnt questions
-- 📫 Reach me on : Discord @GAMINGHOLMES#8700
+- 📫 Reach me on : Discord @Sam.h312#8700
 - ⚡ Fun fact: Javascript was created in 1995
